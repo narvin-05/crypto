@@ -1,0 +1,4 @@
+npm install antd
+npm install @ant-design/icons 
+npm install react-redux
+npm install @reduxjs/toolkit axios chart.js html-react-parser millify moment react-chartjs-2
